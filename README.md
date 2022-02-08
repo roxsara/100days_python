@@ -5,3 +5,5 @@
 3. Treasure Island Game
 4. Rock, Paper, Scissors
 5. Password Generator + FizzBuzz
+6. Maze - Reeborg
+7. Hangman
