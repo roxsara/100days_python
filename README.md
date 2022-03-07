@@ -8,5 +8,5 @@
 6. Maze - Reeborg
 7. Hangman
 8. Caesar Cipher
-9. Secret Auction Program
+9. Secret Auction Program + Travel Log
 10. Calculator
