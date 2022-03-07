@@ -7,3 +7,6 @@
 5. Password Generator + FizzBuzz
 6. Maze - Reeborg
 7. Hangman
+8. Caesar Cipher
+9. Secret Auction Program
+10. Calculator
