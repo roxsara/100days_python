@@ -10,3 +10,7 @@
 8. Caesar Cipher
 9. Secret Auction Program + Travel Log
 10. Calculator
+11. Blackjack
+12. Number Guessing Game
+13. 
+14. Higher Lower
