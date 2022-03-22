@@ -15,3 +15,5 @@
 13. -
 14. Higher Lower
 15. Coffee Machine
+16. Coffee Machine (OOP version)
+17. Quiz Project
