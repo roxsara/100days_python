@@ -17,4 +17,4 @@
 15. Coffee Machine
 16. Coffee Machine (OOP version)
 17. Quiz Project
-18. Timmy the Turtle
+18. Hirst Painting + Timmy the Turtle
