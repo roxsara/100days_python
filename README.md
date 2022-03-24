@@ -18,3 +18,6 @@
 16. Coffee Machine (OOP version)
 17. Quiz Project
 18. Hirst Painting + Timmy the Turtle
+19. Etch-a-sketch + Turtle Race
+20. 
+21. Snake Game
