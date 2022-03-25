@@ -12,7 +12,7 @@
 10. Calculator
 11. Blackjack
 12. Number Guessing Game
-13. -
+13. 
 14. Higher Lower
 15. Coffee Machine
 16. Coffee Machine (OOP version)
@@ -21,3 +21,6 @@
 19. Etch-a-sketch + Turtle Race
 20. 
 21. Snake Game
+22. Pong Game -
+23. Turtle crossing -
+24. Mail Merge - reading & writing to files, .replace, .strip string methods
