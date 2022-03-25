@@ -4,6 +4,7 @@ from food import Food
 from scoreboard import Scoreboard
 import time
 
+# Setting up the screen: 600x600, black background, with the title Snake Game and no screen refresh(tracer(0))
 screen = Screen()
 screen.setup(width=600, height=600)
 screen.bgcolor("black")
@@ -34,13 +35,13 @@ while game_is_on:
 
     # Detect collision with wall
     if snake.head.xcor() > 280 or snake.head.xcor() < -280 or snake.head.ycor() > 280 or snake.head.ycor() < -280:
-        game_is_on = False
-        scoreboard.game_over()
+        scoreboard.reset()
+        snake.reset()
 
     # Detect collision with tail
     for segment in snake.segments[1:]:
         if snake.head.distance(segment) < 10:
-            game_is_on = False
-            scoreboard.game_over()
+            scoreboard.reset()
+            snake.reset()
 
 screen.exitonclick()
