@@ -24,3 +24,4 @@
 22. Pong Game -
 23. Turtle crossing -
 24. Mail Merge - reading & writing to files, .replace, .strip string methods
+25. Squirrel Census & - pandas
